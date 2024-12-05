@@ -11,7 +11,7 @@ repository = "https://gitlab.noirscape.dev/techpriest/site"
 [dependencies]
 color-eyre = "0.5"
 chrono = "0.4"
-comrak = "0.10"
+comrak = "0.12"
 envy = "0.4"
 estimated_read_time = "1.0.0"
 futures = "0.3"
